@@ -33,7 +33,7 @@
                 "KC_8",
                 "KC_9",
                 "KC_0",
-                "KC_MINUS"
+                "TD(3)"
             ],
             [
                 "KC_ENTER",
@@ -49,7 +49,7 @@
                 "KC_I",
                 "KC_O",
                 "KC_P",
-                "KC_BSLASH"
+                "TD(4)"
             ],
             [
                 "KC_RCTRL",
@@ -1097,15 +1097,15 @@
             200
         ],
         [
-            "KC_NO",
-            "KC_NO",
+            "KC_MINUS",
+            "LSFT(KC_MINUS)",
             "KC_NO",
             "KC_NO",
             200
         ],
         [
-            "KC_NO",
-            "KC_NO",
+            "KC_BSLASH",
+            "LSFT(KC_BSLASH)",
             "KC_NO",
             "KC_NO",
             200
